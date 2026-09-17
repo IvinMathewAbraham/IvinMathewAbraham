@@ -146,41 +146,52 @@ CAD AUTOMATION
 
 ---
 
-## GITHUB
+## STATUS
 
-<p align="center">
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  USER        ivin@github                                │
+│  STATUS      ONLINE                                     │
+│  MODE        BUILD                                      │
+│                                                         │
+│  STACK       React / Node.js / Python / Docker / AWS    │
+│  DATABASE    PostgreSQL / MySQL / MongoDB / Redis      │
+│  FOCUS       Software Systems / AI / Cloud              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=IvinMathewAbraham&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+```text
+$ git status
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvinMathewAbraham&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+On branch main
 
-</p>
+Your working tree:
+    [■■■■■■■■■■■■■■■■■■■■]  ACTIVE
 
-<p align="center">
+Current focus:
+    full-stack systems
+    cloud infrastructure
+    automation
+    AI-assisted development
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvinMathewAbraham&theme=github-dark-blue&hide_border=true"/>
+```text
+$ git log --oneline
 
-</p>
-
----
-
-## ACTIVITY
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/IvinMathewAbraham/IvinMathewAbraham/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+building systems
+automating workflows
+learning continuously
+shipping software
+```
 
 ---
 
 ```text
 ────────────────────────────────────────────────────────
 
-                    BUILD.
-                    TEST.
-                    DEPLOY.
-                    ITERATE.
+                 BUILD. TEST. DEPLOY.
 
 ────────────────────────────────────────────────────────
 
@@ -200,4 +211,3 @@ github.com/IvinMathewAbraham
 </a>
 
 </p>
-```
