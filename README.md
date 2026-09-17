@@ -15,8 +15,7 @@ Building software where engineering, automation and
 intelligent systems meet.
 
 CURRENTLY BUILDING
-    CLOSURE
-    AI-Assisted Floor Plan Designer
+    AI-Assisted Software & Intelligent Systems
 ```
 
 ```text
@@ -61,32 +60,10 @@ Docker       AWS          Linux    Git
 ## SELECTED WORK
 
 ```text
-01 / CLOSURE
-────────────────────────────────────────────────────────
-
-AI-Assisted Floor Plan Designer
-
-An AI-assisted CAD-oriented system for generating
-structured and editable floor plans.
-
-    Requirement Parsing
-    Layout Generation
-    Constraint Validation
-    Room-Aware Scoring
-    Typology Strategies
-    Geometry Optimization
-    SVG Rendering
-
-React · TypeScript · AI · Geometry · CAD
-
-
-02 / CARTIGO
+01 / CARTIGO
 ────────────────────────────────────────────────────────
 
 Full-Stack E-Commerce Platform
-
-A complete commerce system covering products, carts,
-checkout, orders, inventory and administration.
 
     Authentication
     Role Management
@@ -100,7 +77,7 @@ checkout, orders, inventory and administration.
 React · Node.js · Express · Prisma · MySQL · Docker
 
 
-03 / API MANAGEMENT PLATFORM
+02 / API MANAGEMENT PLATFORM
 ────────────────────────────────────────────────────────
 
 Containerized API infrastructure with authentication,
@@ -116,11 +93,11 @@ caching and cloud deployment.
 Node.js · Express · MongoDB · Redis · Docker · AWS
 
 
-04 / AUTOMATED CERTIFICATE GENERATOR
+03 / AUTOMATED CERTIFICATE GENERATOR
 ────────────────────────────────────────────────────────
 
-Desktop application for generating personalized
-certificates from structured participant data.
+Desktop application for automated certificate generation
+from structured participant data.
 
     Excel / CSV Mapping
     Template Rendering
@@ -129,61 +106,28 @@ certificates from structured participant data.
     PDF / PNG / JPG Export
 
 Python · PySide6 · Pillow · Pandas
+
+
+04 / MINIDRIVE
+────────────────────────────────────────────────────────
+
+Web-based file management system.
+
+PHP · MySQL · Tailwind CSS
 ```
 
 ---
 
-## CURRENTLY BUILDING
-
-```text
-                         CLOSURE
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │   REQUIREMENTS    │
-                  │      PARSER       │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │   LAYOUT ENGINE   │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │    CONSTRAINT     │
-                  │     VALIDATION    │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │    OPTIMIZATION   │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │   SVG / CAD       │
-                  │     OUTPUT        │
-                  └───────────────────┘
-```
-
-The goal is to move beyond image generation toward
-**structured, editable and verifiable design generation**.
-
----
-
-## ENGINEERING
+## CURRENT FOCUS
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│       DESIGN  ───►  IMPLEMENT  ───►  TEST  ───►  SHIP │
+│       SOFTWARE  ───►  SYSTEMS  ───►  AUTOMATION       │
 │                                                         │
-│       ┌───────┐      ┌───────┐      ┌───────┐         │
-│       │ System│      │ APIs  │      │ Unit  │         │
-│       │ Design│      │ Cloud │      │ E2E   │         │
-│       │ Logic │      │ Infra │      │ CI    │         │
-│       └───────┘      └───────┘      └───────┘         │
+│       Full-Stack       Cloud             AI             │
+│       APIs             DevOps            Tools          │
+│       Databases        Docker            Systems        │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -257,5 +201,3 @@ github.com/IvinMathewAbraham
 
 </p>
 ```
-
-One further improvement I'd make **after this** is replacing the generic `GITHUB` stats section with a custom **terminal-style activity panel** and giving the profile a subtle animated header. That would make it considerably more distinctive without turning it into the usual flashy GitHub README.
