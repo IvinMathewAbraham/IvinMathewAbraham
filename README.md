@@ -46,7 +46,7 @@ $ ls ~/projects
 drwxr-xr-x  cartigo/
 drwxr-xr-x  api-management-platform/
 drwxr-xr-x  certificate-generator/
-drwxr-xr-x  minidrive/
+drwxr-xr-x  connectsphere/
 ────────────────────────────────────────────────────────
 ```
 
@@ -98,11 +98,16 @@ stack   Python · PySide6 · Pillow · Pandas
 ```
 
 ```text
-$ cat minidrive/README
+$ cat connectsphere/README
 ────────────────────────────────────────────────────────
-Web-based file management system
+Full-stack real-time communication platform
 
-stack   PHP · MySQL · Tailwind CSS
+  - real-time messaging with Socket.io
+  - JWT authentication with bcrypt password hashing
+  - cloud image storage with Cloudinary
+  - responsive UI with client-side state management
+
+stack   React · Vite · Tailwind CSS · Zustand · Node.js · Express · MongoDB · Socket.io
 ────────────────────────────────────────────────────────
 ```
 
