@@ -8,206 +8,146 @@
 
 IVIN MATHEW ABRAHAM
 ────────────────────────────────────────────────────────
-
 FULL-STACK DEVELOPER  /  CLOUD  /  AI SYSTEMS
-
-Building software where engineering, automation and
-intelligent systems meet.
-
-CURRENTLY BUILDING
-    AI-Assisted Software & Intelligent Systems
+────────────────────────────────────────────────────────
 ```
 
 ```text
 $ whoami
+Ivin Mathew Abraham
 
-ivin@github
-├── Integrated MCA @ Saintgits College of Engineering
-├── Full-Stack Development
-├── Cloud & DevOps
-├── AI-Assisted Systems
-└── Software Architecture
+$ cat /etc/profile
+role        full-stack developer
+education   Integrated MCA, Saintgits College of Engineering
+location    Kerala, India
+focus       full-stack systems / cloud infrastructure / AI-assisted tools
+status      online
+mode        build
 ```
 
 ---
 
-## STACK
-
 ```text
-LANGUAGES
+$ ls ~/stack
 ────────────────────────────────────────────────────────
-JavaScript   TypeScript   Python   C   SQL
-
-FRONTEND
+languages        JavaScript  TypeScript  Python  C  SQL
+frontend         React  HTML  CSS  Bootstrap  Tailwind CSS
+backend          Node.js  Express  REST  WebSockets  Prisma
+databases        PostgreSQL  MySQL  MongoDB  Redis
+infrastructure   Docker  AWS  Linux  Git
 ────────────────────────────────────────────────────────
-React        HTML         CSS      Bootstrap
-
-BACKEND
-────────────────────────────────────────────────────────
-Node.js      Express      REST     WebSockets
-
-DATABASES
-────────────────────────────────────────────────────────
-PostgreSQL   MySQL        MongoDB  Redis
-
-INFRASTRUCTURE
-────────────────────────────────────────────────────────
-Docker       AWS          Linux    Git
 ```
 
 ---
 
-## SELECTED WORK
+```text
+$ ls ~/projects
+────────────────────────────────────────────────────────
+drwxr-xr-x  cartigo/
+drwxr-xr-x  api-management-platform/
+drwxr-xr-x  certificate-generator/
+drwxr-xr-x  minidrive/
+────────────────────────────────────────────────────────
+```
 
 ```text
-01 / CARTIGO
+$ cat cartigo/README
 ────────────────────────────────────────────────────────
+Full-stack e-commerce platform
 
-Full-Stack E-Commerce Platform
+  - authentication and role management
+  - product and inventory management
+  - cart, checkout and orders
+  - admin dashboard
+  - cloud image storage
 
-    Authentication
-    Role Management
-    Product Management
-    Cart & Checkout
-    Orders
-    Inventory
-    Admin Dashboard
-    Cloud Image Storage
-
-React · Node.js · Express · Prisma · MySQL · Docker
-
-
-02 / API MANAGEMENT PLATFORM
+stack   React · Node.js · Express · Prisma · MySQL · Docker
 ────────────────────────────────────────────────────────
+```
 
+```text
+$ cat api-management-platform/README
+────────────────────────────────────────────────────────
 Containerized API infrastructure with authentication,
-caching and cloud deployment.
+caching and cloud deployment
 
-    REST APIs
-    Authentication
-    Redis
-    MongoDB
-    Docker
-    AWS EC2
+  - REST APIs
+  - authentication
+  - Redis caching
+  - Docker containers
+  - deployed on AWS EC2
 
-Node.js · Express · MongoDB · Redis · Docker · AWS
-
-
-03 / AUTOMATED CERTIFICATE GENERATOR
+stack   Node.js · Express · MongoDB · Redis · Docker · AWS
 ────────────────────────────────────────────────────────
+```
 
-Desktop application for automated certificate generation
-from structured participant data.
-
-    Excel / CSV Mapping
-    Template Rendering
-    QR Generation
-    Batch Processing
-    PDF / PNG / JPG Export
-
-Python · PySide6 · Pillow · Pandas
-
-
-04 / MINIDRIVE
+```text
+$ cat certificate-generator/README
 ────────────────────────────────────────────────────────
+Desktop application that generates certificates in bulk
+from structured participant data
 
-Web-based file management system.
+  - Excel / CSV field mapping
+  - template rendering
+  - QR code generation
+  - batch processing
+  - PDF / PNG / JPG export
 
-PHP · MySQL · Tailwind CSS
+stack   Python · PySide6 · Pillow · Pandas
+────────────────────────────────────────────────────────
+```
+
+```text
+$ cat minidrive/README
+────────────────────────────────────────────────────────
+Web-based file management system
+
+stack   PHP · MySQL · Tailwind CSS
+────────────────────────────────────────────────────────
 ```
 
 ---
 
-## CURRENT FOCUS
-
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│       SOFTWARE  ───►  SYSTEMS  ───►  AUTOMATION       │
-│                                                         │
-│       Full-Stack       Cloud             AI             │
-│       APIs             DevOps            Tools          │
-│       Databases        Docker            Systems        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-```text
-SOFTWARE ARCHITECTURE
-SYSTEM DESIGN
-FULL-STACK ENGINEERING
-CLOUD INFRASTRUCTURE
-CONTAINERIZATION
-AUTOMATED TESTING
-AI-ASSISTED DEVELOPMENT
-COMPUTATIONAL DESIGN
-CAD AUTOMATION
-```
-
----
-
-## STATUS
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  USER        ivin@github                                │
-│  STATUS      ONLINE                                     │
-│  MODE        BUILD                                      │
-│                                                         │
-│  STACK       React / Node.js / Python / Docker / AWS    │
-│  DATABASE    PostgreSQL / MySQL / MongoDB / Redis      │
-│  FOCUS       Software Systems / AI / Cloud              │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+$ cat ~/.focus
+────────────────────────────────────────────────────────
+[x] software architecture and system design
+[x] full-stack engineering
+[x] cloud infrastructure and containerization
+[x] automated testing
+[x] AI-assisted development
+[x] computational design and CAD automation
+────────────────────────────────────────────────────────
 ```
 
 ```text
 $ git status
-
 On branch main
-
 Your working tree:
-    [■■■■■■■■■■■■■■■■■■■■]  ACTIVE
+    [####################]  ACTIVE
 
-Current focus:
-    full-stack systems
-    cloud infrastructure
-    automation
-    AI-assisted development
-```
-
-```text
 $ git log --oneline
-
-building systems
-automating workflows
-learning continuously
-shipping software
+a4f9c21 building systems
+7be03d8 automating workflows
+2c81e5f learning continuously
+91d7a60 shipping software
 ```
 
 ---
 
 ```text
+$ ./connect.sh
+────────────────────────────────────────────────────────
+github     github.com/IvinMathewAbraham
+linkedin   linkedin.com/in/ivin-mathew-abraham-371974257
+email      ivinmathew464@gmail.com
 ────────────────────────────────────────────────────────
 
-                 BUILD. TEST. DEPLOY.
-
-────────────────────────────────────────────────────────
-
-github.com/IvinMathewAbraham
+$ echo "BUILD. TEST. DEPLOY."
+BUILD. TEST. DEPLOY.
 ```
 
-## CONNECT
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ivin-mathew-abraham-371974257/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ivinmathew464@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/ivin-mathew-abraham-371974257/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ivinmathew464@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
