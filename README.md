@@ -129,7 +129,7 @@ $ cat ~/.focus
 $ git status
 On branch main
 Your working tree:
-    [####################]  ACTIVE
+    [■■■■■■■■■■■■■■■■■■■■]  ACTIVE
 
 $ git log --oneline
 a4f9c21 building systems
