@@ -148,7 +148,12 @@ status          tracking enabled
 ```
 
 
-![](https://komarev.com/ghpvc/?IvinMathewAbraham)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=IvinMathewAbraham&label=PROFILE%20VIEWS&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
