@@ -138,22 +138,6 @@ a4f9c21 building systems
 91d7a60 shipping software
 ```
 
-```text
-$ github-stats --profile
-────────────────────────────────────────────────────────
-profile_views   LIVE COUNTER
-username        IvinMathewAbraham
-status          tracking enabled
-────────────────────────────────────────────────────────
-```
-
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=IvinMathewAbraham&label=PROFILE%20VIEWS&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
 
 ---
 
