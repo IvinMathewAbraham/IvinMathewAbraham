@@ -147,9 +147,11 @@ status          tracking enabled
 ────────────────────────────────────────────────────────
 ```
 
+```html
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IvinMathewAbraham&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=IvinMathewAbraham" alt="GitHub profile views" />
 </p>
+```
 
 ---
 
