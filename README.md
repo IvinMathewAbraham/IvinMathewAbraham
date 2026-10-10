@@ -138,6 +138,15 @@ a4f9c21 building systems
 91d7a60 shipping software
 ```
 
+```text
+$ github-stats --profile
+────────────────────────────────────────────────────────
+profile_views   [live counter]
+username        IvinMathewAbraham
+status          tracking enabled
+────────────────────────────────────────────────────────
+```
+
 ---
 
 ```text
