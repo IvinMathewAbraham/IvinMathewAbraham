@@ -141,11 +141,15 @@ a4f9c21 building systems
 ```text
 $ github-stats --profile
 ────────────────────────────────────────────────────────
-profile_views   [live counter]
+profile_views   LIVE COUNTER
 username        IvinMathewAbraham
 status          tracking enabled
 ────────────────────────────────────────────────────────
 ```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IvinMathewAbraham&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
